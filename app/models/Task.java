@@ -8,6 +8,7 @@ import javax.persistence.Entity;
 /**
  * Created by daviesc8 on 17/09/15.
  */
+@Entity
 public class Task extends Model{
 
     @Id
